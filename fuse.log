@@ -1,0 +1,53 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae_isim_beh.exe -prj C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae_beh.prj work.test_PlacaMae 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ROM.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/RegistoComparacao.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoSaida.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoEntrada.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PC.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/nor_port.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxR.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MUXPC.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxComp.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/inv_port.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/BancoRegistos.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ALU.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/Processador.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaInstrucoes.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaDados.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling package std_logic_signed
+Compiling architecture dataflow of entity inv_port [inv_port_default]
+Compiling architecture behavioral of entity PerifericoEntrada [perifericoentrada_default]
+Compiling architecture behavioral of entity PerifericoSaida [perifericosaida_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity RegistoComparacao [registocomparacao_default]
+Compiling architecture behavioral of entity MuxComp [muxcomp_default]
+Compiling architecture dataflow of entity nor_port [nor_port_default]
+Compiling architecture behavioral of entity MUXPC [muxpc_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture behavioral of entity ROM [rom_default]
+Compiling architecture behavioral of entity MuxR [muxr_default]
+Compiling architecture behavioral of entity BancoRegistos [bancoregistos_default]
+Compiling architecture struct of entity Processador [processador_default]
+Compiling architecture behavioral of entity MemoriaInstrucoes [memoriainstrucoes_default]
+Compiling architecture behavioral of entity MemoriaDados [memoriadados_default]
+Compiling architecture struct of entity PlacaMae [placamae_default]
+Compiling architecture behavior of entity test_placamae
+Time Resolution for simulation is 1ps.
+Waiting for 15 sub-compilation(s) to finish...
+Compiled 39 VHDL Units
+Built simulation executable C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae_isim_beh.exe
+Fuse Memory Usage: 39324 KB
+Fuse CPU Usage: 1390 ms

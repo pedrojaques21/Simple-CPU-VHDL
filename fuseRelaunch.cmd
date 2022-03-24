@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae_isim_beh.exe" -prj "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae_beh.prj" "work.test_PlacaMae" 

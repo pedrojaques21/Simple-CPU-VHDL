@@ -1,0 +1,49 @@
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc7a100t-csg324-3 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -mt off PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PlacaMae.ucf -p xc3s500e-fg320-4 PlacaMae.ngc PlacaMae.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o PlacaMae_map.ncd PlacaMae.ngd PlacaMae.pcf 
+par -w -intstyle ise -ol high -t 1 PlacaMae_map.ncd PlacaMae.ncd PlacaMae.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml PlacaMae.twx PlacaMae.ncd -o PlacaMae.twr PlacaMae.pcf -ucf PlacaMae.ucf 
+bitgen -intstyle ise -f PlacaMae.ut PlacaMae.ncd 
+xst -intstyle ise -ifn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.xst" -ofn "C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.syr" 

@@ -1,0 +1,127 @@
+V3 63
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ALU.vhd 2022/03/24.11:55:18 P.20131013
+EN work/ALU 1648124263 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ALU.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1648124264 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ALU.vhd \
+      EN work/ALU 1648124263
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/BancoRegistos.vhd 2022/03/13.20:12:05 P.20131013
+EN work/BancoRegistos 1648124279 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/BancoRegistos.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/BancoRegistos/Behavioral 1648124280 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/BancoRegistos.vhd \
+      EN work/BancoRegistos 1648124279
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/inv_port.vhd 2022/03/10.21:00:54 P.20131013
+EN work/inv_port 1648124257 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/inv_port.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/inv_port/DataFlow 1648124258 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/inv_port.vhd \
+      EN work/inv_port 1648124257
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaDados.vhd 2022/03/13.19:50:29 P.20131013
+EN work/MemoriaDados 1648124285 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaDados.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaDados/Behavioral 1648124286 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaDados.vhd \
+      EN work/MemoriaDados 1648124285
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaInstrucoes.vhd 2022/03/22.20:31:47 P.20131013
+EN work/MemoriaInstrucoes 1648124283 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaInstrucoes.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaInstrucoes/Behavioral 1648124284 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MemoriaInstrucoes.vhd \
+      EN work/MemoriaInstrucoes 1648124283
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxComp.vhd 2022/03/08.23:00:59 P.20131013
+EN work/MuxComp 1648124267 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxComp.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/MuxComp/Behavioral 1648124268 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxComp.vhd \
+      EN work/MuxComp 1648124267
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MUXPC.vhd 2022/03/22.20:08:56 P.20131013
+EN work/MUXPC 1648124271 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MUXPC.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/MUXPC/Behavioral 1648124272 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MUXPC.vhd \
+      EN work/MUXPC 1648124271
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxR.vhd 2022/03/22.20:28:45 P.20131013
+EN work/MuxR 1648124277 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178
+AR work/MuxR/Behavioral 1648124278 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/MuxR.vhd \
+      EN work/MuxR 1648124277
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/nor_port.vhd 2022/03/17.15:49:20 P.20131013
+EN work/nor_port 1648124269 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/nor_port.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/nor_port/DataFlow 1648124270 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/nor_port.vhd \
+      EN work/nor_port 1648124269
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PC.vhd 2022/03/13.20:00:34 P.20131013
+EN work/PC 1648124273 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PC.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/PC/Behavioral 1648124274 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PC.vhd \
+      EN work/PC 1648124273
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoEntrada.vhd 2022/03/13.20:19:27 P.20131013
+EN work/PerifericoEntrada 1648124259 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoEntrada.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178
+AR work/PerifericoEntrada/Behavioral 1648124260 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoEntrada.vhd \
+      EN work/PerifericoEntrada 1648124259
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoSaida.vhd 2022/03/18.01:16:01 P.20131013
+EN work/PerifericoSaida 1648124261 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoSaida.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178
+AR work/PerifericoSaida/Behavioral 1648124262 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PerifericoSaida.vhd \
+      EN work/PerifericoSaida 1648124261
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.vhd 2022/03/18.15:01:57 P.20131013
+EN work/PlacaMae 1648124287 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/PlacaMae/Struct 1648124288 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/PlacaMae.vhd \
+      EN work/PlacaMae 1648124287 CP Processador CP MemoriaInstrucoes \
+      CP MemoriaDados
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/Processador.vhd 2022/03/17.16:30:47 P.20131013
+EN work/Processador 1648124281 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/Processador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/Processador/Struct 1648124282 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/Processador.vhd \
+      EN work/Processador 1648124281 CP inv_port CP PerifericoEntrada \
+      CP PerifericoSaida CP ALU CP RegistoComparacao CP MuxComp CP nor_port CP MUXPC \
+      CP PC CP ROM CP MUXR CP BancoRegistos
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/RegistoComparacao.vhd 2022/03/22.19:43:26 P.20131013
+EN work/RegistoComparacao 1648124265 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/RegistoComparacao.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/RegistoComparacao/Behavioral 1648124266 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/RegistoComparacao.vhd \
+      EN work/RegistoComparacao 1648124265
+FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ROM.vhd 2022/03/10.19:52:18 P.20131013
+EN work/ROM 1648124275 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ROM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_SIGNED 1381692178 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ROM/Behavioral 1648124276 \
+      FL C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/ROM.vhd \
+      EN work/ROM 1648124275

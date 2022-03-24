@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\.Xilinx\Trabalho1_PedroJaques_2046919_JoelFreitas_2031915\PlacaMae.ncd
+OUTFILE=C:\.Xilinx\Trabalho1_PedroJaques_2046919_JoelFreitas_2031915\PlacaMae.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\.Xilinx\Trabalho1_PedroJaques_2046919_JoelFreitas_2031915
+LICENSE=WebPack
+USER_INFO=212053062_0_0_419
