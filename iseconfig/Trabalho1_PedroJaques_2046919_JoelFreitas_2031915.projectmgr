@@ -11,13 +11,13 @@
          <ClosedNode>/Processador - Struct C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|Processador.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>xc3s500e-4fg320</SelectedItem>
+         <SelectedItem>RegistoDeComparacao - RegistoComparacao - Behavioral (C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/RegistoComparacao.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000022a000000020000000000000000000000000200000064ffffffff0000008100000003000000020000022a0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>xc3s500e-4fg320</CurrentItem>
+      <CurrentItem>RegistoDeComparacao - RegistoComparacao - Behavioral (C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/RegistoComparacao.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -29,7 +29,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000103000000010000000100000000000000000000000064ffffffff000000810000000000000001000001030000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000114000000010000000100000000000000000000000064ffffffff000000810000000000000001000001140000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>Update All Schematic Files</CurrentItem>
    </ItemView>
@@ -40,9 +40,9 @@
       <SelectedItems>
          <SelectedItem>test_RegistoComparacao.vhd</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >11</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >6</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff000000810000000000000004000000ea0000000100000000000000240000000100000000000000660000000100000000000001090000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff000000810000000000000004000000ea00000001000000000000002400000001000000000000006600000001000000000000021e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>test_RegistoComparacao.vhd</CurrentItem>
    </ItemView>
@@ -58,7 +58,7 @@
       <CurrentItem>work</CurrentItem>
    </ItemView>
    <SourceProcessView>000000ff000000000000000200000186000000a801000000050100000002</SourceProcessView>
-   <CurrentView>Implementation</CurrentView>
+   <CurrentView>Behavioral Simulation</CurrentView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
          <ClosedNodesVersion>1</ClosedNodesVersion>
@@ -91,7 +91,6 @@
          <ClosedNode>/test_PC - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_PC.vhd</ClosedNode>
          <ClosedNode>/test_PerifericoEntrada - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_PerifericoEntrada.vhd</ClosedNode>
          <ClosedNode>/test_PerifericoSaida - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_PerifericoSaida.vhd</ClosedNode>
-         <ClosedNode>/test_PlacaMae - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_PlacaMae.vhd/uut - PlacaMae - Struct</ClosedNode>
          <ClosedNode>/test_PlacaMaeCompleta - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_PlacaMaeCompleta.vhd</ClosedNode>
          <ClosedNode>/test_RegistoComparacao - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_RegistoComparacao.vhd</ClosedNode>
          <ClosedNode>/test_inv_port - behavior C:|.Xilinx|Trabalho1_PedroJaques_2046919_JoelFreitas_2031915|test_inv_port.vhd</ClosedNode>
@@ -102,7 +101,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001b7000000020000000000000000000000000200000064ffffffff000000810000000300000002000001b70000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000023e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000023e0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
       <CurrentItem>test_PlacaMae - behavior (C:/.Xilinx/Trabalho1_PedroJaques_2046919_JoelFreitas_2031915/test_PlacaMae.vhd)</CurrentItem>
    </ItemView>
@@ -112,13 +111,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000114000000010000000100000000000000000000000064ffffffff000000810000000000000001000001140000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -166,13 +165,13 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000114000000010000000100000000000000000000000064ffffffff000000810000000000000001000001140000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="ManualCompile" >
       <ClosedNodes>
